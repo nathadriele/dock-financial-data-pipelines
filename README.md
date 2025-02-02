@@ -1,5 +1,7 @@
 ## Dock Financial Data Pipelines
 
+![image](https://github.com/user-attachments/assets/ebbdec9a-869f-4dfb-aa44-90f32c9fbdcf)
+
 Automated pipeline for generating and processing Dock balance reports using Apache Airflow, SFTP, AWS S3, and Lambda.
 
 ### Overview
